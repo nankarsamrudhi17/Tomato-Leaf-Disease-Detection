@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+dataset/
+data_collection/webcam_images/
+raspberry_pi_app/captures/*.jpg
+*.keras
+.ipynb_checkpoints/
+.env

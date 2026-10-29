@@ -1,0 +1,7 @@
+# Only needed if you train in LOCAL Jupyter instead of Google Colab.
+# (A GPU is strongly recommended; on CPU training can take hours.)
+tensorflow
+scikit-learn
+matplotlib
+numpy
+jupyter

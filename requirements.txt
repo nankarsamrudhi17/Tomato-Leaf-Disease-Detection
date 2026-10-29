@@ -1,0 +1,8 @@
+# Runtime packages (Raspberry Pi app + data collection)
+# On the Pi, prefer setup_pi.sh (uses apt for OpenCV/Tkinter/Pillow).
+numpy
+opencv-python
+pillow
+# One of these (setup_pi.sh tries them in order):
+tflite-runtime
+# ai-edge-litert
